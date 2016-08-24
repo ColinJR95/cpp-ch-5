@@ -21,3 +21,6 @@ y = temp;
 
 int array [5] = { 3,5,2,-1,4};
   temp array [0] 
+Return 0 
+
+
